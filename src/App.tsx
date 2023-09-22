@@ -29,7 +29,7 @@ function App() {
       <Spline
         style={{ top: 0, left: 0, position: "absolute" }}
         onLoad={onLoad}
-        scene={"/scene.splinecode"}
+        scene={"https://prod.spline.design/6Wq1Q7YGyM-iab9i/scene.splinecode"}
       />
     </div>
   );
